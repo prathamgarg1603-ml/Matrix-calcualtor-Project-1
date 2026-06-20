@@ -1,5 +1,7 @@
 # Matrix Operations Calculator
 
+# Made By Pratham Garg
+
 A small, dependency-light CLI tool for performing common matrix operations, built entirely on top of NumPy — no other libraries used.
 
 ## Features
